@@ -8,13 +8,9 @@
   <a href="https://www.kaspersky.com/resource-center/definitions/what-is-zero-click-malware">Kaspersky</a>
 </p>
 
-<a href="https://github.com/pxcs/BlackMarlinExec/"><p align="center">
-<img width="320" height="320" src="g">
-</p></a>
-
 ## About
 
-Pegasus represents a significant advancement in cyber surveillance technology, posing challenges for privacy and security globally. Its capabilities and the controversies surrounding its use highlight the complex interplay between technology, security, and human rights.
+Pegasus represents a significant advancement in cyber `surveillance technology`, posing challenges for privacy and security globally. Its capabilities and the controversies surrounding its use highlight the complex interplay between technology, security, and human rights.
 
 The spyware can infect a device without any user interaction through "zero-click" exploits, which leverage vulnerabilities in software like messaging apps (e.g., WhatsApp, iMessage).
 
@@ -39,6 +35,8 @@ Latest Mobile attack performances:
 <a href="https://github.com/pxcs/BlackMarlinExec/"><p align="center">
 <img width="320" height="320" src="/init/pegasus_2.png">
 </p></a>
+
+_Note:_ Not continueing Pegasus projects, latest mobile security frameworks would be CarpaAlko 2.X (Enterprise only) 
 
 ## Thanks 
 
